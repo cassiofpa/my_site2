@@ -1,0 +1,16 @@
+---
+title: "first-analysis"
+author: "cassiofpa"
+date: "2021-05-30"
+output: html_document
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+```{r}
+x=rnorm(10)
+hist(x)
+```
+

@@ -1,0 +1,23 @@
+---
+title: "second-analysis"
+author: "cassiofpa"
+date: "2021-06-01"
+output: html_document
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+```{r}
+x=rnorm(20)
+boxplot(x)
+```
+
+## Cap2
+
+```{r}
+x=rnorm(20)
+boxplot(x)
+```
+
